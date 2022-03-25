@@ -2,7 +2,7 @@
 
 # import the data and ggplot2
 library(ggplot2)
-setwd("~/r/rineasysteps/data")
+setwd("./data")
 readr::read_csv("DataSet-ProfSalaries.csv")
 
 # create a ggplot object with a histogram geometry and faceted rows

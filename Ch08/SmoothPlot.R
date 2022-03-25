@@ -2,7 +2,7 @@
 ## variable scatter plots
 
 ## load the required data
-setwd("~/R/rineasysteps/data")
+setwd("./data")
 frame <- read.csv("DataSet-Autos.csv")
 
 # output the end rows of the data frame

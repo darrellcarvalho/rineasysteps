@@ -5,7 +5,7 @@
 library(ggplot2)
 
 # bring in data
-setwd("~/Data")
+setwd("./data")
 readr::read_csv("DataSet-ProfSalaries.csv")
 
 # create a ggplot object and append a bar chart geom

@@ -3,7 +3,7 @@
 
 # import the dataset
 library(ggplot2)
-setwd("~/R/rineasysteps/data")
+setwd("./data")
 frame <- readr::read_csv("DataSet-ProfSalaries.csv")
 
 # create a ggplot using continous variables; compend density estimates

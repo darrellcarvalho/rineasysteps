@@ -3,7 +3,7 @@
 
 # import the data and ggplot2
 library(ggplot2)
-setwd("~/r/rineasysteps/data")
+setwd("./data")
 readr::read_csv("DataSet-ProfSalaries.csv")
 
 # create a ggplot object with jittered points and box plot, and a theme

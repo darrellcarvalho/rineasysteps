@@ -1,7 +1,7 @@
 ## This exercise demonstrates how to add text/labels via qplot()
 
 # Bring in the data
-setwd("~/R/rineasysteps/data")
+setwd("./data")
 frame <- read.csv("DataSet-Autos.csv")
 
 # Bring in ggplot2

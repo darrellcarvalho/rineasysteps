@@ -1,7 +1,7 @@
 ## This script demonstrates the creation of Box and Violin Plots with qplot()
 
 # bring in the data
-setwd("~/R/rineasysteps/data")
+setwd("./data")
 frame <- read.csv("DataSet-Experiment.csv")
 
 # output the first three rows

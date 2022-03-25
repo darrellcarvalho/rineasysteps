@@ -1,7 +1,7 @@
 ## This exercise demonstrates how to gradiate symbols in ggplot2
 
 # Bring in the data
-setwd("~/R/rineasysteps/data")
+setwd("./data")
 frame <- read.csv("DataSet-Autos.csv")
 
 # Bring in ggplot2

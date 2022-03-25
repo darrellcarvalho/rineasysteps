@@ -1,6 +1,6 @@
 ## This exercise demonstrates methods of filtering data frames
 # Import the data
-setwd("~/R/rineasysteps/data")
+setwd("./data")
 frame <- read.csv("DataSet-Browsers.csv")
 
 # Perform a conditional test filter

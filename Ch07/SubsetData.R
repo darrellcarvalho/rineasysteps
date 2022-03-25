@@ -1,7 +1,7 @@
 ## This exercise demonstrates subsetting of data frames
 
 # Bring in the data
-setwd("~/R/rineasysteps/data")
+setwd("./data")
 frame <- read.csv("DataSet-Browsers.csv")
 
 # Extract 4 specific rows

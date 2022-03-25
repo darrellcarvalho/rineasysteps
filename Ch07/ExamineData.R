@@ -1,7 +1,7 @@
 ## The purpose of this exercise is to demonstrate how to examine data
 
 # bring in data frame
-setwd("~/R/rineasysteps/data")
+setwd("./data")
 frame <- read.csv("DataSet-Browsers.csv")
 
 # display dimensions of data (# of rows, # of cols)

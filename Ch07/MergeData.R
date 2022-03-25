@@ -1,7 +1,7 @@
 ## This exercise demonstrates the merging of dataframes
 
 # Bring in data
-setwd("~/R/rineasysteps/data")
+setwd("./data")
 high.temps <- read.csv("DataSet-HighTemps.csv")
 low.temps <- read.csv("DataSet-LowTemps.csv")
 

@@ -5,7 +5,7 @@
 library(ggplot2)
 
 # bring in the data
-setwd("~/Data")
+setwd("./Data")
 frame <- readr::read_csv("DataSet-ProfSalaries.csv") # using readr
 # instead of base as used in book, because it brings in tibble
 

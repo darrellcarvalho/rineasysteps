@@ -1,7 +1,7 @@
 ## This exercise demonstrates how to modify data frame columns
 
 # B ring in data frame
-setwd("~/R/rineasysteps/data")
+setwd("./data")
 frame <- read.csv("DataSet-Browsers.csv")
 
 # create a function to output title and first two lines of a data frame

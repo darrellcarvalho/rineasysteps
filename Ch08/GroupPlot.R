@@ -1,7 +1,7 @@
 ## This exercise demonstrates simple symbol grouping in qplot()
 
 # Bring in the data
-setwd("~/R/rineasysteps/data")
+setwd("./data")
 frame <- read.csv("DataSet-Autos.csv")
 
 # Bring in ggplot2

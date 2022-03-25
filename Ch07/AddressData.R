@@ -1,7 +1,7 @@
 ## This exercise demonstrates how to navigate/address data frames (indexing)
 
 # Set up data frame
-setwd("~/R/rineasysteps/data")
+setwd("./data")
 frame <- read.csv("DataSet-Browsers.csv")
 
 # Output first three rows and columns
